@@ -1,4 +1,4 @@
-package co.edu.escuelaing.sparkdockerdemolive;
+package co.edu.escuelaing;
 import static spark.Spark.*;
 
 public class SparkWebServer {
